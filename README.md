@@ -9,7 +9,7 @@ Apasionado por el desarrollo web y la creación de experiencias digitales impact
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 - **Backend:** PHP, Java, Laravel  
 - **Bases de Datos:** MySQL
-- **Herramientas:** Git, WordPress, VirtualBox, Notion  
+- **Herramientas:** Git, WordPress, VirtualBox, Figma, Notion  
 
 ---
 
